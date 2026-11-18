@@ -1,0 +1,5 @@
+# Ignore the large zip archive directory in git tracking
+# (All archives are published and hosted directly via GitHub Releases)
+/dictionaries/
+*.tmp
+__pycache__/
